@@ -80,9 +80,7 @@ a {
     position: relative;
     bottom: 0px;
 
-    i {
-        font-size: 2rem;
-    }
+
 }
 
 a:hover {
